@@ -1,0 +1,6 @@
+nome = input ('Informe seu nome:')
+idade = input ('informe sua idade: ')
+altura = input ('informe sua altura')
+profissao = input ('informe sua profissao')
+print(nome,idade,altura,profissao)
+print(' Complto:{}. idade: {}. profisao:{} ' .format(nome,idade,profissao))
